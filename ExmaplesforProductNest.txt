@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Apple",
+    "description": "An apple a day keeps the doctor away",
+    "price": 1
+  },
+  {
+    "name": "Banana",
+    "description": "A yellow fruit with a sweet taste",
+    "price": 0.5
+  },
+  {
+    "name": "Mango",
+    "description": "A tropical fruit with a sweet and tangy flavor",
+    "price": 1.75
+  },
+  {
+    "name": "Carrot",
+    "description": "A root vegetable with a crunchy texture and sweet flavor",
+    "price": 0.3
+  },
+  {
+    "name": "Pear",
+    "description": "A sweet fruit with a smooth texture and distinctive shape",
+    "price": 0.8
+  },
+  {
+    "name": "Cheese",
+    "description": "A dairy product made from pressed curds of milk",
+    "price": 2.25
+  },
+  {
+    "name": "Coffee",
+    "description": "A brewed drink made from roasted coffee beans",
+    "price": 3.5
+  },
+  {
+    "name": "Peanuts",
+    "description": "Edible seeds with a crunchy texture, often eaten as a snack",
+    "price": 1.2
+  },
+  {
+    "name": "Chicken Breast",
+    "description": "Lean white meat from the breast of a chicken",
+    "price": 5.99
+  },
+  {
+    "name": "Salmon Fillet",
+    "description": "A portion of fresh salmon, rich in omega-3 fatty acids",
+    "price": 7.49
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "description": "Bread made from whole wheat flour, rich in fiber",
+    "price": 2.49
+  },
+  {
+    "name": "Laundry Detergent",
+    "description": "A cleaning agent used for washing clothes",
+    "price": 9.99
+  },
+  {
+	"name": "Strawberry",
+	"description": "A sweet and juicy berry with a red exterior and small seeds",
+	"price": 3.99
+  },
+  {
+    "name": "Shampoo",
+    "description": "A hair care product used for cleaning and conditioning hair",
+    "price": 4.79
+  }
+]
